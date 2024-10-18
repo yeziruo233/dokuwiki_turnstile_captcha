@@ -1,0 +1,7 @@
+base   turnstile
+author Ye Ziruo
+email  i@yeziruo.com
+date   2024-10-15
+name   turnstile captcha plugin
+desc   Cloudflare Turnstile CAPTCHA for DokuWiki
+url    http://www.dokuwiki.org/plugin:turnstile
